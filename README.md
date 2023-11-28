@@ -1,1 +1,1 @@
-# Applay_KnnModel_On_Cifar10Data
+# Apply_KnnModel_On_Cifar10Data
